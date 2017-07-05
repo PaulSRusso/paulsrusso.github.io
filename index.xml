@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul&#39;s Projects</title>
+    <link>https://paulsrusso.github.io/</link>
+    <description>Recent content on Paul&#39;s Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulsrusso.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Spring Boot Reactive web application that streams stock quotes</title>
+      <link>https://paulsrusso.github.io/post/spring-boot-reactive-stock-quotes/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/spring-boot-reactive-stock-quotes/</guid>
+      <description>Interesting things are happening in the Spring world with the introduction of Reactive Streams in the up and coming Spring 5. Here is a simple project that demonstrates how to stream intraday stock quote using new reactive features in Spring 5. It was inspired this short video.
+Clone this project from Github</description>
+    </item>
+    
+    <item>
+      <title>A tutorial on creating and deploying a personal cloud</title>
+      <link>https://paulsrusso.github.io/post/create-personal-cloud/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/create-personal-cloud/</guid>
+      <description>This system is packaged and deployed as a set of Docker images.
+The images include:
+ MySQL database Email (Dovecot, PostFix, opendkim) SSL enabled OpenVPN NextCloud SSL enabled Nginx webserver SSL enabled  Download it from Github
+Background Inspired by this article &amp;lsquo;The Dawn of the Personal Cloud&amp;rsquo;, I decided to create a personal cloud in the same vein.
+One main component of a personal cloud is file share and sync.</description>
+    </item>
+    
+    <item>
+      <title>How to set up three node Kafka cluster using Vagrant</title>
+      <link>https://paulsrusso.github.io/post/kafka-cluster/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/kafka-cluster/</guid>
+      <description>I created this project to help me learn about Apache Kafka. I believe that many microservices will move towards an asynchronous more loosely coupled model. Kafka can play a key role by providing a distributed persistant message log. I plan on creating a Spring Boot project that uses this cluster. I will share it here.
+Clone this project from Github</description>
+    </item>
+    
+    <item>
+      <title>Jchart stock market charting software</title>
+      <link>https://paulsrusso.github.io/post/jchart/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/jchart/</guid>
+      <description>Jchart is a project I started several years ago in the Java 1.0 time frame around 1996. It was originally a Java applet but is now a stand alone desktop application. I use it almost daily and have open sourced it. I have several other projects based on Jchart such as trading systems, stock screening, and overall market breadth indicators. The open sourced Jchart includes a money flow indicator I have developed based on price, volume and Japaneese candlesticks.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://paulsrusso.github.io/about/</link>
+      <pubDate>Mon, 15 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/about/</guid>
+      <description>Hello. My name is Paul Russo. Here I share a few projects created to help learn and explore technical areas of interest. More projects will be added as I complete them.
+I’m a software engineer with background in server side web application and microservice development mostly in Java. Some of my technical interests are in security, data privacy, simplifying deployments, cloud infrastructure, finance and software craftsmanship. I enjoy to keeping up to date with emerging technologies and trends and love to work in Linux environments.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stock Chart on Paul&#39;s Projects</title>
+    <link>https://paulsrusso.github.io/tags/stock-chart/</link>
+    <description>Recent content in Stock Chart on Paul&#39;s Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulsrusso.github.io/tags/stock-chart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jchart stock market charting software</title>
+      <link>https://paulsrusso.github.io/post/jchart/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/jchart/</guid>
+      <description>Jchart is a project I started several years ago in the Java 1.0 time frame around 1996. It was originally a Java applet but is now a stand alone desktop application. I use it almost daily and have open sourced it. I have several other projects based on Jchart such as trading systems, stock screening, and overall market breadth indicators. The open sourced Jchart includes a money flow indicator I have developed based on price, volume and Japaneese candlesticks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Paul&#39;s Projects</title>
+    <link>https://paulsrusso.github.io/tags/java/</link>
+    <description>Recent content in Java on Paul&#39;s Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulsrusso.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Spring Boot Reactive web application that streams stock quotes</title>
+      <link>https://paulsrusso.github.io/post/spring-boot-reactive-stock-quotes/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/spring-boot-reactive-stock-quotes/</guid>
+      <description>Interesting things are happening in the Spring world with the introduction of Reactive Streams in the up and coming Spring 5. Here is a simple project that demonstrates how to stream intraday stock quote using new reactive features in Spring 5. It was inspired this short video.
+Clone this project from Github</description>
+    </item>
+    
+    <item>
+      <title>Jchart stock market charting software</title>
+      <link>https://paulsrusso.github.io/post/jchart/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/jchart/</guid>
+      <description>Jchart is a project I started several years ago in the Java 1.0 time frame around 1996. It was originally a Java applet but is now a stand alone desktop application. I use it almost daily and have open sourced it. I have several other projects based on Jchart such as trading systems, stock screening, and overall market breadth indicators. The open sourced Jchart includes a money flow indicator I have developed based on price, volume and Japaneese candlesticks.</description>
+    </item>
+    
+  </channel>
+</rss>

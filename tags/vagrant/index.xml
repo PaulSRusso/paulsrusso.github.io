@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagrant on Paul&#39;s Projects</title>
+    <link>https://paulsrusso.github.io/tags/vagrant/</link>
+    <description>Recent content in Vagrant on Paul&#39;s Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulsrusso.github.io/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A tutorial on creating and deploying a personal cloud</title>
+      <link>https://paulsrusso.github.io/post/create-personal-cloud/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/create-personal-cloud/</guid>
+      <description>This system is packaged and deployed as a set of Docker images.
+The images include:
+ MySQL database Email (Dovecot, PostFix, opendkim) SSL enabled OpenVPN NextCloud SSL enabled Nginx webserver SSL enabled  Download it from Github
+Background Inspired by this article &amp;lsquo;The Dawn of the Personal Cloud&amp;rsquo;, I decided to create a personal cloud in the same vein.
+One main component of a personal cloud is file share and sync.</description>
+    </item>
+    
+    <item>
+      <title>How to set up three node Kafka cluster using Vagrant</title>
+      <link>https://paulsrusso.github.io/post/kafka-cluster/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulsrusso.github.io/post/kafka-cluster/</guid>
+      <description>I created this project to help me learn about Apache Kafka. I believe that many microservices will move towards an asynchronous more loosely coupled model. Kafka can play a key role by providing a distributed persistant message log. I plan on creating a Spring Boot project that uses this cluster. I will share it here.
+Clone this project from Github</description>
+    </item>
+    
+  </channel>
+</rss>
